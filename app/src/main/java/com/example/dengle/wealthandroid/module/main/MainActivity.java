@@ -1,7 +1,9 @@
-package com.example.dengle.wealthandroid;
+package com.example.dengle.wealthandroid.module.main;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.example.dengle.wealthandroid.R;
 
 public class MainActivity extends Activity {
 
