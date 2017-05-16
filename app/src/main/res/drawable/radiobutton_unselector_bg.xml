@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="-3dp" android:left="-3dp" android:right="-3dp">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <!--  这里改填充颜色 -->
+            <solid android:color="@color/white"/>
+            <!--  这里改底部线条颜色 -->
+            <stroke android:color="@color/white" android:width="2dp"/>
+        </shape>
+    </item>
+</layer-list>

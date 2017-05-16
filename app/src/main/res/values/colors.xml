@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    //base color
+    <color name="white">#ffffff</color>
+    <color name="text_color_2">#222222</color>
+    <color name="color66">#666666</color>
+    <color name="text_color_5">#c0c0c0</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-
+    <color name="main_color_orange">#ff6311</color>
     <color name="main_color">#478DF5</color>
     <color name="text_color_gray">#999999</color>
+
+    //common head
+    <color name="title_background">#fcfcfc</color>
+
+    <color name="text_color_pay_success">#3d95eb</color>
+    <color name="text_color_pay_failed">@color/text_color_gray</color>
+    <color name="text_color_back_success">@color/main_color_orange</color>
+
+    <color name="common_pressed">#315B92</color>
+    <color name="common_unpressed">#3e6ba7</color>
+    <color name="common_disable">#e0e0e0</color>
+
+    //status
+    <color name="status_back_success_or_activity">@color/main_color_orange</color>
+    <color name="status_pay_success">@color/main_color</color>
+    <color name="status_pay__failed">#999999</color>
+    <color name="status_paying_or_backing">#73899b</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="color_F1F2F5">#F1F2F5</color>
+
+
+    <drawable name="item_pressed">@color/color_F1F2F5</drawable>
+    <!--item正常颜色-->
+    <drawable name="item_unpressed">@color/white</drawable>
+
+    <color name="blue_400">#5b7eee</color>
+
+    <color name="risk_level1">#b366f7</color>
+    <color name="risk_level2">#2f94f0</color>
+    <color name="risk_level3">#00b78c</color>
+    <color name="risk_level4">#e89500</color>
+    <color name="risk_level5">#ff8282</color>
+
+    <color name="black_transparency_150">#26000000</color>
 
 </resources>
